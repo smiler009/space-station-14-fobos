@@ -1,0 +1,12 @@
+H:\space-station-14-fobos\Content.Shared.Database\bin\Debug\net9.0\Content.Shared.Database.deps.json
+H:\space-station-14-fobos\Content.Shared.Database\bin\Debug\net9.0\Content.Shared.Database.dll
+H:\space-station-14-fobos\Content.Shared.Database\bin\Debug\net9.0\Content.Shared.Database.pdb
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\Content.Shared.Database.GeneratedMSBuildEditorConfig.editorconfig
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\Content.Shared.Database.AssemblyInfoInputs.cache
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\Content.Shared.Database.AssemblyInfo.cs
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\Content.Shared.Database.csproj.CoreCompileInputs.cache
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\Content.Shared.Database.sourcelink.json
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\Content.Shared.Database.dll
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\refint\Content.Shared.Database.dll
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\Content.Shared.Database.pdb
+H:\space-station-14-fobos\Content.Shared.Database\obj\Debug\net9.0\ref\Content.Shared.Database.dll

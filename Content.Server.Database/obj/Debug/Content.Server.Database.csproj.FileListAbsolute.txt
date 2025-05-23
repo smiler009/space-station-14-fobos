@@ -1,0 +1,16 @@
+H:\space-station-14-fobos\bin\Content.Server.Database\Content.Server.Database.deps.json
+H:\space-station-14-fobos\bin\Content.Server.Database\Content.Server.Database.runtimeconfig.json
+H:\space-station-14-fobos\bin\Content.Server.Database\Content.Server.Database.dll
+H:\space-station-14-fobos\bin\Content.Server.Database\Content.Server.Database.pdb
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.csproj.AssemblyReference.cache
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.GeneratedMSBuildEditorConfig.editorconfig
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.AssemblyInfoInputs.cache
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.AssemblyInfo.cs
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.csproj.CoreCompileInputs.cache
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.sourcelink.json
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content..3E398902.Up2Date
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.dll
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\refint\Content.Server.Database.dll
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.pdb
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\Content.Server.Database.genruntimeconfig.cache
+H:\space-station-14-fobos\Content.Server.Database\obj\Debug\ref\Content.Server.Database.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "olsHLwJPBb8=",
+  "success": true,
+  "projectFilePath": "H:\\space-station-14-fobos\\Content.PatreonParser\\Content.PatreonParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misha\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

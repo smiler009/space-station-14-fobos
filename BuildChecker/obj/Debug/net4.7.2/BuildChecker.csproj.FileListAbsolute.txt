@@ -1,0 +1,10 @@
+H:\space-station-14-fobos\BuildChecker\bin\Debug\net4.7.2\BuildChecker.dll
+H:\space-station-14-fobos\BuildChecker\bin\Debug\net4.7.2\BuildChecker.pdb
+H:\space-station-14-fobos\BuildChecker\obj\Debug\net4.7.2\BuildChecker.csproj.AssemblyReference.cache
+H:\space-station-14-fobos\BuildChecker\obj\Debug\net4.7.2\BuildChecker.GeneratedMSBuildEditorConfig.editorconfig
+H:\space-station-14-fobos\BuildChecker\obj\Debug\net4.7.2\BuildChecker.AssemblyInfoInputs.cache
+H:\space-station-14-fobos\BuildChecker\obj\Debug\net4.7.2\BuildChecker.AssemblyInfo.cs
+H:\space-station-14-fobos\BuildChecker\obj\Debug\net4.7.2\BuildChecker.csproj.CoreCompileInputs.cache
+H:\space-station-14-fobos\BuildChecker\obj\Debug\net4.7.2\BuildChecker.sourcelink.json
+H:\space-station-14-fobos\BuildChecker\obj\Debug\net4.7.2\BuildChecker.dll
+H:\space-station-14-fobos\BuildChecker\obj\Debug\net4.7.2\BuildChecker.pdb
