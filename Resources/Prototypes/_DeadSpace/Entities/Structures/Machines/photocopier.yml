@@ -72,6 +72,8 @@
         components:
           - Paper
     photocopierType: Command
+  - type: Machine
+    board: PhotocopierMachineCommandCircuitboard
 
 - type: entity
   parent: PhotocopierBase
@@ -87,7 +89,9 @@
         components:
           - Paper
     photocopierType: Centcomm
-
+  - type: Machine
+    board: PhotocopierMachineCentcomCircuitboard
+    
 - type: entity
   parent: PhotocopierBase
   id: PhotocopierSyndicate
@@ -102,6 +106,8 @@
         components:
           - Paper
     photocopierType: Syndicate
+  - type: Machine
+    board: PhotocopierMachineSyndicateCircuitboard
 
 - type: entity
   parent: PhotocopierBase
@@ -117,6 +123,8 @@
         components:
           - Paper
     photocopierType: Nukeops
+  - type: Machine
+    board: PhotocopierMachineSyndicateOperativesCircuitboard
 
 - type: entity
   parent: BaseItem

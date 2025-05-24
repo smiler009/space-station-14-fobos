@@ -1412,7 +1412,7 @@
         Steel : 5
 
 - type: entity
-  id: PhotocopierMachineSyndicateCircuitboard
+  id: PhotocopierMachineSyndicateOperativesCircuitboard
   parent: BaseMachineCircuitboard
   name: копировальный аппарат ядерных оперативников (машинная плата)
   description: Из этой машинной платы собирается копировальный аппарат ядерных оперативников
