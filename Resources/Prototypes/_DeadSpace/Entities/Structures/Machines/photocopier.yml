@@ -1,5 +1,5 @@
 - type: entity
-  parent: BaseMachinePowered
+  parent: [BaseMachinePowered, SmallConstructibleMachine]
   id: PhotocopierBase
   name: копировальный аппарат
   description: ЦК закупило их чтобы сэкономить на ручках для юридического отдела.
@@ -55,6 +55,8 @@
   - type: ContainerContainer
     containers:
       Paper: !type:ContainerSlot
+  - type: Machine
+    board: PhotocopierMachineCircuitboard
 
 - type: entity
   parent: PhotocopierBase

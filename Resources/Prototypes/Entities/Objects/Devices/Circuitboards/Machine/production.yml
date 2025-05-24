@@ -1354,3 +1354,73 @@
       Capacitor: 1
       Manipulator: 1
       Cable: 1
+
+- type: entity
+  id: PhotocopierMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: копировальный аппарат (машинная плата)
+  description: Из этой машинной платы собирается копировальный аппарат
+  components:
+    - type: Sprite
+      state: science
+    - type: MachineBoard
+      prototype: PhotocopierBase
+      stackRequirements:
+        Plastic : 5
+        Steel : 5
+
+- type: entity
+  id: PhotocopierMachineCommandCircuitboard
+  parent: BaseMachineCircuitboard
+  name: командный копировальный аппарат (машинная плата)
+  description: Из этой машинной платы собирается командный копировальный аппарат
+  components:
+    - type: Sprite
+      state: science
+    - type: MachineBoard
+      prototype: PhotocopierCommand
+      stackRequirements:
+        Plastic : 5
+        Steel : 5
+
+- type: entity
+  id: PhotocopierMachineCentcomCircuitboard
+  parent: BaseMachineCircuitboard
+  name: копировальный аппарат Центкома (машинная плата)
+  description: Из этой машинной платы собирается копировальный аппарат Центкома
+  components:
+    - type: Sprite
+      state: science
+    - type: MachineBoard
+      prototype: PhotocopierCentcomm
+      stackRequirements:
+        Plastic : 5
+        Steel : 5
+
+- type: entity
+  id: PhotocopierMachineSyndicateCircuitboard
+  parent: BaseMachineCircuitboard
+  name: копировальный аппарат Синдиката (машинная плата)
+  description: Из этой машинной платы собирается копировальный аппарат Синдиката
+  components:
+    - type: Sprite
+      state: science
+    - type: MachineBoard
+      prototype: PhotocopierSyndicate
+      stackRequirements:
+        Plastic : 5
+        Steel : 5
+
+- type: entity
+  id: PhotocopierMachineSyndicateCircuitboard
+  parent: BaseMachineCircuitboard
+  name: копировальный аппарат ядерных оперативников (машинная плата)
+  description: Из этой машинной платы собирается копировальный аппарат ядерных оперативников
+  components:
+    - type: Sprite
+      state: science
+    - type: MachineBoard
+      prototype: PhotocopierNukeops
+      stackRequirements:
+        Plastic : 5
+        Steel : 5
